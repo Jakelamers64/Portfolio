@@ -89,3 +89,12 @@ Peace Corps Advocates
   - ID rounds
   - Virtual infectious diseases conference
   - Pediatrics morning case conference
+
+### Publications & Presentations
+
+- Lamers J, Maclaughlin K, Pegelow D, Eldridge M, Sobakin A. Decrease in Dysbaric Osteonecrosis Severity as a Result of 45-min Oxygen Pre-Breathe. The Undersea and Hyperbaric Medicine Journal 2021, VOL. 48 (3): 279-286.
+- Lamers J, Sobakin A. Effects of Oxygen Pre-Breathe on Dysbaric Osteonecrosis Severity. UHMS Annual Scientific Meeting. June, 2019. San Juan, Puerto Rico
+- Lamers J, Sobakin A, Maclaughlin K, Peglow D, Eldridge M. Decrease in Dysbaric Osteonecrosis Lesions as a Result of 45-minute Oxygen Pre-Breathe. Experimental Biology Annual Meeting. April, 2020. San Diego, CA.
+- Lamers J. Decrease in Dysbaric Osteonecrosis Severity as a Result of 45-minute Oxygen Pre-breathe. Eldridge Lab Journal Club. March 2021. Madison, WI.
+- Lamers J. Inflammatory response to Dysbaric Osteonecrosis. Eldridge Lab Journal Club. January 2020. Madison, WI.
+- Lamers J. Hyperbaric and Concentrated Oxygens Effects on Blood Gases. Eldridge Lab Journal Club. September 2021. Madison, WI.
