@@ -46,7 +46,33 @@ Wisconsin Union – Madison, WI
   - Management and training of student team members.
   - Working and communicating effectively as a team leader with co-workers.
   - Ensuring food was served efficiently and to quality standards.
-- See publications and presentations at end of page
+- See publications and presentations at bottom of page
+
+# Volunteer Experience & Extra Curriculars
+
+### English Language Tutor (1 hour a week)
+CEEH - Conversational English at Eagle Heights
+02/2021 - 12/2021
+- Responsibilities
+  - Tutored kindergarten students in English.
+  - Helped tutee learn basic vocabulary and grammar as well as practice simple conversation.
+  - Utilized participatory learning approaches to encourage language learning.
+
+### English Language Tutor (1 hour a week)
+GUTS - Greater University Tutoring Services - Language Exchange
+01/2020 - 12/2021
+- Responsibilities
+  - Helped advanced ESL students become more proficient with conversational English.
+  - Discussed more advanced topics and helped with accent and colloquial expressions.
+- Received Tuesday Tutor Appreciation award for hard work and exemplary performance.
+
+### Co-President (~2.5 hours a month)
+Peace Corps Advocates
+08/2018 - 04/2022
+- Responsibilities
+  - As a general member helped spread awareness for Peace Corps service at the UW Madison campus by assisting the local campus recruiter.
+  - Became an advisor and worked on general club maintenance to ensure members had a good experience.
+  - Helped compile course recommendations for people thinking of joining the Peace Corps to ensure they were better prepared for service.
 
 # Shadowing
 
