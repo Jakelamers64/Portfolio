@@ -25,7 +25,7 @@ Yonibana Senior Secondary School - Yonibana, Tonkolili District, Sierra Leone
 - Responsibilities
   - Instruction of SSS1 - SSS3 students in chemistry and mathematics.
   - Rehabilitation of laboratory facilities.
-  - Construction of Cantene facilities.
+  - Construction of Canteen facilities.
   - Volunteer assistant trainer.
   - Vice President of Peer Support Network.
 
@@ -45,7 +45,7 @@ SSMHealth Saint Mary’s Hospital – Madison WI
 - Responsibilities
   - 500+ clinical patient care hours
   - Interacted with patients to obtain samples for blood work tests
-  - Ensured sample quality and efficiency of collection as well as patient satisfaction
+  - Ensured sample quality and efficiency of the collection as well as patient satisfaction
   - General laboratory maintenance and upkeep
 
 ###  Supervisor/Team Member (~12 hours per week)
@@ -58,7 +58,7 @@ Wisconsin Union – Madison, WI
   - Management and training of student team members.
   - Working and communicating effectively as a team leader with co-workers.
   - Ensuring food was served efficiently and to quality standards.
-- See publications and presentations at bottom of page
+- See publications and presentations at the bottom of the page
 
 # Volunteer Experience & Extra Curriculars
 
@@ -94,10 +94,10 @@ Peace Corps Advocates
 - 4/29/2022 8 hrs
 - Observed
   - Intrathecal (IT) chemo procedure
-  - Outpatient clinic for infants with spherocytosis, sickle cell anemia and acute lymphoytic luekemia
-  - Charting and MD related business tasks
+  - Outpatient clinic for infants with spherocytosis, sickle cell anemia, and acute lymphocytic leukemia
+  - Charting and MD-related business tasks
 
-### Emma Mohr MD PhD - Pediatric Infectious Disease
+### Emma Mohr MD Ph.D. - Pediatric Infectious Disease
 - 5/10/2022 8 hrs & 5/11/2022 8 hrs
 - Observed
   - ID rounds
