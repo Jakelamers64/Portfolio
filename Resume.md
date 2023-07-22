@@ -1,7 +1,9 @@
 # Contact Info
 - Jacob Lamers
   - jakelamers931@gmail.com
-  - (608)-609-5002
+  - Phone number
+    - +232 76 955206
+    - +1 (608)-609-5002
   - 7029 Hubbard Avenue, Middleton, WI
 
 # Education
@@ -16,6 +18,16 @@
 - Graduated with distinctive scholastic achievement
 
 # Work Experience
+
+### Peace Corps Volunteer (~30 hours per week)
+Yonibana Senior Secondary School - Yonibana, Tonkolili District, Sierra Leone
+09/2022 - Present
+- Responsibilities
+  - Instruction of SSS1 - SSS3 students in chemistry and mathematics.
+  - Rehabilitation of laboratory facilities.
+  - Construction of Cantene facilities.
+  - Volunteer assistant trainer.
+  - Vice President of Peer Support Network.
 
 ### Undergraduate Research Assistant (~5 hours per week)
 University of Wisconsin-Madison Department of Pediatrics - Madison, WI
@@ -74,7 +86,9 @@ Peace Corps Advocates
   - Became an advisor and worked on general club maintenance to ensure members had a good experience.
   - Helped compile course recommendations for people thinking of joining the Peace Corps to ensure they were better prepared for service.
 
+<!--
 # Shadowing
+
 
 ### Cathy Lee-Miller MD - Pediatric Hem-oncology
 - 4/29/2022 8 hrs
@@ -89,12 +103,20 @@ Peace Corps Advocates
   - ID rounds
   - Virtual infectious diseases conference
   - Pediatrics morning case conference
+-->
+
+
 
 ### Publications & Presentations
 
-- Lamers J, Maclaughlin K, Pegelow D, Eldridge M, Sobakin A. Decrease in Dysbaric Osteonecrosis Severity as a Result of 45-min Oxygen Pre-Breathe. The Undersea and Hyperbaric Medicine Journal 2021, VOL. 48 (3): 279-286.
+- Lamers, J., MacLaughlin, K., Pegelow, D., Eldridge, M., & Sobakin, A. (2021). Decrease in dysbaric osteonecrosis severity as a result of 45-minute oxygen pre-breathe. Undersea & Hyperbaric Medicine: Journal of the Undersea and Hyperbaric Medical Society, Inc, 48(3), 279–286.
+- MacLaughlin, K. J., Barton, G. P., Braun, R. K., MacLaughlin, J. E., Lamers, J. J., Marcou, M. D., & Eldridge, M. W. (2023). Hyperbaric air mobilizes stem cells in humans; a new perspective on the hormetic dose curve. Frontiers in Neurology, 14, 1192793.
 - Lamers J, Sobakin A. Effects of Oxygen Pre-Breathe on Dysbaric Osteonecrosis Severity. UHMS Annual Scientific Meeting. June, 2019. San Juan, Puerto Rico
+- Lamers, J., MacLaughlin, K., Marcou, M., Braun, R., & Eldridge, M. (2022). Increase in venous [K+] During Hyperbaric Exposure Independent of Changes in pH or O2 Concentration. The FASEB Journal, 36.
 - Lamers J, Sobakin A, Maclaughlin K, Peglow D, Eldridge M. Decrease in Dysbaric Osteonecrosis Lesions as a Result of 45-minute Oxygen Pre-Breathe. Experimental Biology Annual Meeting. April, 2020. San Diego, CA.
+
+<!--
 - Lamers J. Decrease in Dysbaric Osteonecrosis Severity as a Result of 45-minute Oxygen Pre-breathe. Eldridge Lab Journal Club. March 2021. Madison, WI.
 - Lamers J. Inflammatory response to Dysbaric Osteonecrosis. Eldridge Lab Journal Club. January 2020. Madison, WI.
 - Lamers J. Hyperbaric and Concentrated Oxygens Effects on Blood Gases. Eldridge Lab Journal Club. September 2021. Madison, WI.
+-->
