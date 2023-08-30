@@ -10,14 +10,16 @@
 
 # Education
 
-### University of Wisconsin - Madison 05/2022
-- Degrees
-  - Biochemistry (BS)
-  - Computer Science (CERT)
-  - Global Health (CERT)
-- GPA 3.876
-- Dean’s list every semester attended
-- Graduated with distinctive scholastic achievement
+**University of Wisconsin - Madison**  
+*May 2022*  
+
+- **Degrees:**
+  - Bachelor of Science in Biochemistry (BS)
+  - Certificates in Computer Science and Global Health
+
+- **GPA:** 3.876
+- Dean’s List every semester attended
+- Graduated with Distinctive Scholastic Achievement
 
 # Work Experience
 
@@ -55,12 +57,11 @@ Wisconsin Union – Madison, WI
 08/2019 – 09/2021
 - Culinary staff member (2019-2020)
 - Student supervisor (2020 - 2021)
-- Responsibilities
-  - Customer service.
-  - Management and training of student team members.
-  - Working and communicating effectively as a team leader with co-workers.
-  - Ensuring food was served efficiently and to quality standards.
-- See publications and presentations at the bottom of the page
+- **Responsibilities:**
+  - Provided excellent customer service.
+  - Managed and trained student team members.
+  - Demonstrated effective teamwork and communication skills as a leader.
+  - Ensured efficient and quality food service.
 
 # Volunteer Experience & Extra Curriculars
 
