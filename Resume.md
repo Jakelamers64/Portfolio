@@ -107,7 +107,7 @@ Peace Corps Advocates
 
 
 
-### Publications & Presentations
+# Publications & Presentations
 
 - Lamers, J., MacLaughlin, K., Pegelow, D., Eldridge, M., & Sobakin, A. (2021). Decrease in dysbaric osteonecrosis severity as a result of 45-minute oxygen pre-breathe. Undersea & Hyperbaric Medicine: Journal of the Undersea and Hyperbaric Medical Society, Inc, 48(3), 279–286.
 - MacLaughlin, K. J., Barton, G. P., Braun, R. K., MacLaughlin, J. E., Lamers, J. J., Marcou, M. D., & Eldridge, M. W. (2023). Hyperbaric air mobilizes stem cells in humans; a new perspective on the hormetic dose curve. Frontiers in Neurology, 14, 1192793.
