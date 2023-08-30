@@ -1,10 +1,10 @@
 # Contact Info
 - **Jacob Lamers**
   - Email: jakelamers931@gmail.com
-  - Phone numbers:
+  - Phone Numbers:
     - Sierra Leone: +232 76 955206
-    - USA: +1 (608)-609-5002
-  - Adress:
+    - USA: +1 (608) 609-5002
+  - Address:
     - Residence: Yonibana, Tonkolili District, Sierra Leone
     - Mailing: 7029 Hubbard Avenue, Middleton, WI
 
