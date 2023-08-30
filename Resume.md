@@ -1,10 +1,12 @@
 # Contact Info
 - Jacob Lamers
-  - jakelamers931@gmail.com
-  - Phone number
-    - +232 76 955206
-    - +1 (608)-609-5002
-  - 7029 Hubbard Avenue, Middleton, WI
+  - Email: jakelamers931@gmail.com
+  - Phone numbers:
+    - Sierra Leone: +232 76 955206
+    - USA: +1 (608)-609-5002
+  - Adress:
+    - Residence: Yonibana, Tonkolili District, Sierra Leone
+    - Mailing: 7029 Hubbard Avenue, Middleton, WI
 
 # Education
 
