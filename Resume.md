@@ -141,11 +141,12 @@
 
 # Publications & Presentations
 
-- Lamers, J., MacLaughlin, K., Pegelow, D., Eldridge, M., & Sobakin, A. (2021). Decrease in dysbaric osteonecrosis severity as a result of 45-minute oxygen pre-breathe. Undersea & Hyperbaric Medicine: Journal of the Undersea and Hyperbaric Medical Society, Inc, 48(3), 279–286.
-- MacLaughlin, K. J., Barton, G. P., Braun, R. K., MacLaughlin, J. E., Lamers, J. J., Marcou, M. D., & Eldridge, M. W. (2023). Hyperbaric air mobilizes stem cells in humans; a new perspective on the hormetic dose curve. Frontiers in Neurology, 14, 1192793.
-- Lamers J, Sobakin A. Effects of Oxygen Pre-Breathe on Dysbaric Osteonecrosis Severity. UHMS Annual Scientific Meeting. June, 2019. San Juan, Puerto Rico
-- Lamers, J., MacLaughlin, K., Marcou, M., Braun, R., & Eldridge, M. (2022). Increase in venous [K+] During Hyperbaric Exposure Independent of Changes in pH or O2 Concentration. The FASEB Journal, 36.
-- Lamers J, Sobakin A, Maclaughlin K, Peglow D, Eldridge M. Decrease in Dysbaric Osteonecrosis Lesions as a Result of 45-minute Oxygen Pre-Breathe. Experimental Biology Annual Meeting. April, 2020. San Diego, CA.
+- Lamers, J., MacLaughlin, K., Pegelow, D., Eldridge, M., & Sobakin, A. (2021). Decrease in dysbaric osteonecrosis severity as a result of 45-minute oxygen pre-breathe. *Undersea & Hyperbaric Medicine: Journal of the Undersea and Hyperbaric Medical Society, Inc*, 48(3), 279–286.
+- MacLaughlin, K. J., Barton, G. P., Braun, R. K., MacLaughlin, J. E., Lamers, J. J., Marcou, M. D., & Eldridge, M. W. (2023). Hyperbaric air mobilizes stem cells in humans; a new perspective on the hormetic dose curve. *Frontiers in Neurology*, 14, 1192793.
+- Lamers J, Sobakin A. Effects of Oxygen Pre-Breathe on Dysbaric Osteonecrosis Severity. *UHMS Annual Scientific Meeting*. June, 2019. San Juan, Puerto Rico
+- Lamers, J., MacLaughlin, K., Marcou, M., Braun, R., & Eldridge, M. (2022). Increase in venous [K+] During Hyperbaric Exposure Independent of Changes in pH or O2 Concentration. *The FASEB Journal*, 36.
+- Lamers J, Sobakin A, Maclaughlin K, Peglow D, Eldridge M. Decrease in Dysbaric Osteonecrosis Lesions as a Result of 45-minute Oxygen Pre-Breathe. *Experimental Biology Annual Meeting*. April, 2020. San Diego, CA.
+
 
 <!--
 - Lamers J. Decrease in Dysbaric Osteonecrosis Severity as a Result of 45-minute Oxygen Pre-breathe. Eldridge Lab Journal Club. March 2021. Madison, WI.
