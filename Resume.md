@@ -126,7 +126,7 @@
 |-----------|---------------|
 | Krio      | advanced      |
 | Temne     | survival      |
-| Mandarin  | HSK 2         |
+| Mandarin  | HSK 1         |
 
 ### Software
 ### Programming Skills
