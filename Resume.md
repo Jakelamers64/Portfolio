@@ -1,5 +1,5 @@
 # Contact Info
-- Jacob Lamers
+- **Jacob Lamers**
   - Email: jakelamers931@gmail.com
   - Phone numbers:
     - Sierra Leone: +232 76 955206
