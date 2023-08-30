@@ -24,39 +24,41 @@
 # Work Experience
 
 ### Peace Corps Volunteer (~30 hours per week)
-Yonibana Senior Secondary School - Yonibana, Tonkolili District, Sierra Leone
-09/2022 - Present
-- Responsibilities
-  - Instruction of SSS1 - SSS3 students in chemistry and mathematics.
-  - Rehabilitation of laboratory facilities.
-  - Construction of Canteen facilities.
-  - Volunteer assistant trainer.
-  - Vice President of Peer Support Network.
+**Yonibana Senior Secondary School** - Yonibana, Tonkolili District, Sierra Leone  
+*09/2022 - Present*
+- **Responsibilities:**
+  - Instructed SSS1 - SSS3 students in chemistry and mathematics.
+  - Rehabilitated laboratory facilities.
+  - Constructed Canteen facilities.
+  - Served as a Volunteer Assistant Trainer.
+  - Held the position of Vice President of Peer Support Network.
 
 ### Undergraduate Research Assistant (~5 hours per week)
-University of Wisconsin-Madison Department of Pediatrics - Madison, WI
-07/2016 - 06/2022
-- Responsibilities
-  - General laboratory upkeep.
-  - Research subject recruitment and study performance.
-  - Data acquisition and analysis.
-  - Manuscript preparation and submission.
-  - Data presentation at scientific meetings.
+**University of Wisconsin-Madison Department of Pediatrics** - Madison, WI  
+*07/2016 - 06/2022*
+- **Responsibilities:**
+  - Maintained general laboratory upkeep.
+  - Recruited research subjects and conducted studies.
+  - Acquired and analyzed data.
+  - Prepared and submitted manuscripts.
+  - Presented data at scientific meetings.
+- **Publications and Presentations:** See below
 
 ### Phlebotomist (~20 hours per week)
-SSMHealth Saint Mary’s Hospital – Madison WI
-01/2022 – 06/2022
-- Responsibilities
-  - 500+ clinical patient care hours
-  - Interacted with patients to obtain samples for blood work tests
-  - Ensured sample quality and efficiency of the collection as well as patient satisfaction
-  - General laboratory maintenance and upkeep
+**SSMHealth Saint Mary’s Hospital** – Madison, WI  
+*01/2022 – 06/2022*
+- **Responsibilities:**
+  - Accumulated 500+ clinical patient care hours.
+  - Interacted with patients to collect blood work samples.
+  - Ensured sample quality, efficiency, and patient satisfaction.
+  - Managed general laboratory maintenance.
 
-###  Supervisor/Team Member (~12 hours per week)
-Wisconsin Union – Madison, WI
-08/2019 – 09/2021
-- Culinary staff member (2019-2020)
-- Student supervisor (2020 - 2021)
+### Supervisor/Team Member (~12 hours per week)
+**Wisconsin Union** – Madison, WI  
+*08/2019 – 09/2021*
+- **Roles:**
+  - Culinary staff member (2019-2020)
+  - Student supervisor (2020 - 2021)
 - **Responsibilities:**
   - Provided excellent customer service.
   - Managed and trained student team members.
