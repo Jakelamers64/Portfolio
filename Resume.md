@@ -105,6 +105,32 @@ Peace Corps Advocates
   - Pediatrics morning case conference
 -->
 
+# Skills
+### Programming
+| Languages | Skill Level   |
+|-----------|---------------|
+| Python    | advanced      |
+| R         | advanced      |
+| Java      | intermediate  |
+| C++       | intermediate  |
+| HTML/CSS  | Beginner      |
+
+### Language
+| Languages | Skill Level   |
+|-----------|---------------|
+| Krio      | advanced      |
+| Temne     | survival      |
+| Mandarin  | HSK 2         |
+
+### Software
+### Programming Skills
+| Program   | Skill Level   |
+|-----------|---------------|
+| Word      | advanced      |
+| Excel     | advanced      |
+| Powerpoint| advanced      |
+| Git       | intermediate  |
+
 
 
 # Publications & Presentations
