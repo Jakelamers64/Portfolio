@@ -129,7 +129,6 @@
 | Mandarin  | HSK 1         |
 
 ### Software
-### Programming Skills
 | Program   | Skill Level   |
 |-----------|---------------|
 | Word      | advanced      |
