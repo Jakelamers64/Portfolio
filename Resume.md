@@ -23,15 +23,25 @@
 
 # Work Experience
 
-### Peace Corps Volunteer (~30 hours per week)
+### Peace Corps Volunteer
 **Yonibana Senior Secondary School** - Yonibana, Tonkolili District, Sierra Leone  
-*09/2022 - Present*
+*09/2022 - 09/2024*
 - **Responsibilities:**
   - Instructed SSS1 - SSS3 students in chemistry and mathematics.
   - Rehabilitated laboratory facilities.
   - Constructed Canteen facilities.
   - Served as a Volunteer Assistant Trainer.
-  - Held the position of Vice President of Peer Support Network.
+  - Held the position on Peer Support Network.
+
+### Community Health Worker Data Analysis Officer
+**Population Services International (PSI)** - Sierra Leone  
+*09/2024 - 01/2025*
+- **Responsibilities:**
+  - Analyzed system data to enhance PSI support for rural community health workers.
+  - Identified health trends and evaluated program outcomes.
+  - Designed improved training resources for CHWs.
+  - Collaborated with PSI staff, Malaria Field Officers, and Ministry of Health officials.
+  - Mentored community health workers in malaria case management and social behavior change activities.
 
 ### Undergraduate Research Assistant (~5 hours per week)
 **University of Wisconsin-Madison Department of Pediatrics** - Madison, WI  
@@ -126,7 +136,8 @@
 |-----------|---------------|
 | Krio      | advanced      |
 | Temne     | survival      |
-| Mandarin  | HSK 1         |
+| Mandarin  | HSK 2         |
+| Spanish   | basic         |
 
 ### Software
 | Program   | Skill Level   |
@@ -134,6 +145,7 @@
 | Word      | advanced      |
 | Excel     | advanced      |
 | Powerpoint| advanced      |
+| dhis2     | intermediate  |
 | Git       | intermediate  |
 
 
