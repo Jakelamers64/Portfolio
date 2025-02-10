@@ -32,8 +32,7 @@
   - Constructed Canteen facilities.
   - Served as a Volunteer Assistant Trainer.
   - Held the position on Peer Support Network.
-
-### Community Health Worker Data Analysis Officer
+**Community Health Worker Data Analysis Officer**
 **Population Services International (PSI)** - Sierra Leone  
 *09/2024 - 01/2025*
 - **Responsibilities:**
